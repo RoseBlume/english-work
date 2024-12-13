@@ -4,3 +4,11 @@ language = "en"
 multilingual = false
 src = "src"
 title = "English"
+
+[output.html]
+mathjax-support = false
+git-repository-url = "https://github.com/RoseBlume/english-work/tree/main"
+edit-url-template = "https://github.com/RoseBlume/english-work/edit/main/{path}"
+
+[output.html.playground]
+runnable = false
